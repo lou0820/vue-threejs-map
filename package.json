@@ -2,6 +2,7 @@
   "name": "hello-vue3",
   "private": true,
   "version": "0.0.0",
+  "base": "./",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
